@@ -4,12 +4,7 @@
 **Credits:** 3  
 **Type:** Elective  
 
-![Spring 2026](https://img.shields.io/badge/Spring-2026-brightgreen)  
-![Generative AI](https://img.shields.io/badge/Generative_AI-Advanced-blue)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![NUST](https://img.shields.io/badge/NUST-CEME-orange)  
-![License](https://img.shields.io/badge/License-Academic-yellow)
+![Spring 2026](https://img.shields.io/badge/Spring-2026-brightgreen)  ![Generative AI](https://img.shields.io/badge/Generative_AI-Advanced-blue)  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  ![NUST](https://img.shields.io/badge/NUST-CEME-orange)  ![License](https://img.shields.io/badge/License-Academic-yellow)
 
 ---
 
