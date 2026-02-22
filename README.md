@@ -112,8 +112,7 @@ The following structure mirrors the “Week / Lecture Title / Topics” table in
 | 9–10 | GANs & Energy-Based Models | Generative Adversarial Networks, BiGANs, adversarial training, energy-based formulations  . |
 | 11–13 | Diffusion & Score-Based Models | Score-based diffusion models, discrete latent variable models, diffusion for discrete data  . |
 | 14–15 | Large Language & Multimodal Models | Introduction to LLMs, multimodal models such as CLIP, modern applications of generative AI  . |
-
-You can extend each row with more detail (e.g., assignments or readings) as you build the repository.
+ 
 
 ---
 
@@ -152,14 +151,14 @@ The outline defines the standard NUST assessment structure including exams, home
 
 > 💡 Exact percentage weights (e.g., 10% quizzes, 25% assignments, etc.) should be copied from the finalized assessment table in your official outline or course handout.
 
-You can add a bar-style grade breakdown once you finalize the numeric weights.
+ 
 
 ---
 
 ## 📖 Course Materials
 
 The outline specifies a section for textbooks, references, and additional material  .  
-You can populate this section with the actual titles being used in your offering.
+ 
 
 ### Suggested Structure
 
